@@ -1,0 +1,14 @@
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\lez01_classi\bin\Debug\net9.0\lez01_classi.exe
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\lez01_classi\bin\Debug\net9.0\lez01_classi.deps.json
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\lez01_classi\bin\Debug\net9.0\lez01_classi.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\lez01_classi\bin\Debug\net9.0\lez01_classi.dll
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\lez01_classi\bin\Debug\net9.0\lez01_classi.pdb
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\lez01_classi\obj\Debug\net9.0\lez01_classi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\lez01_classi\obj\Debug\net9.0\lez01_classi.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\lez01_classi\obj\Debug\net9.0\lez01_classi.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\lez01_classi\obj\Debug\net9.0\lez01_classi.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\lez01_classi\obj\Debug\net9.0\lez01_classi.dll
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\lez01_classi\obj\Debug\net9.0\refint\lez01_classi.dll
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\lez01_classi\obj\Debug\net9.0\lez01_classi.pdb
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\lez01_classi\obj\Debug\net9.0\lez01_classi.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\lez01_classi\obj\Debug\net9.0\ref\lez01_classi.dll

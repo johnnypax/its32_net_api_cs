@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "its_32_lez00_Introduzione/1.0.0": {
+        "runtime": {
+          "its_32_lez00_Introduzione.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "its_32_lez00_Introduzione/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

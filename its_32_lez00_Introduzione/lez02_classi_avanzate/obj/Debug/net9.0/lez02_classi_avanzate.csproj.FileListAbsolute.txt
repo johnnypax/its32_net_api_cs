@@ -1,0 +1,14 @@
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\lez02_classi_avanzate\bin\Debug\net9.0\lez02_classi_avanzate.exe
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\lez02_classi_avanzate\bin\Debug\net9.0\lez02_classi_avanzate.deps.json
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\lez02_classi_avanzate\bin\Debug\net9.0\lez02_classi_avanzate.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\lez02_classi_avanzate\bin\Debug\net9.0\lez02_classi_avanzate.dll
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\lez02_classi_avanzate\bin\Debug\net9.0\lez02_classi_avanzate.pdb
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\lez02_classi_avanzate\obj\Debug\net9.0\lez02_classi_avanzate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\lez02_classi_avanzate\obj\Debug\net9.0\lez02_classi_avanzate.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\lez02_classi_avanzate\obj\Debug\net9.0\lez02_classi_avanzate.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\lez02_classi_avanzate\obj\Debug\net9.0\lez02_classi_avanzate.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\lez02_classi_avanzate\obj\Debug\net9.0\lez02_classi_avanzate.dll
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\lez02_classi_avanzate\obj\Debug\net9.0\refint\lez02_classi_avanzate.dll
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\lez02_classi_avanzate\obj\Debug\net9.0\lez02_classi_avanzate.pdb
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\lez02_classi_avanzate\obj\Debug\net9.0\lez02_classi_avanzate.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\lez02_classi_avanzate\obj\Debug\net9.0\ref\lez02_classi_avanzate.dll

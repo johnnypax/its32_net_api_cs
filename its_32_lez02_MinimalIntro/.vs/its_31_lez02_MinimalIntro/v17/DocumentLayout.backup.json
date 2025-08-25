@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\source\\repos\\its_31_lez02_MinimalIntro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A26D7F08-2519-4D04-A68D-CEC15ED686A5}|lez03_middleware\\lez03_middleware.csproj|c:\\users\\academy\\source\\repos\\its_31_lez02_minimalintro\\lez03_middleware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A26D7F08-2519-4D04-A68D-CEC15ED686A5}|lez03_middleware\\lez03_middleware.csproj|solutionrelative:lez03_middleware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FCEEBD-9D54-420F-B3F9-CB1F465E4EAB}|lez02_logging\\lez02_logging.csproj|c:\\users\\academy\\source\\repos\\its_31_lez02_minimalintro\\lez02_logging\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FCEEBD-9D54-420F-B3F9-CB1F465E4EAB}|lez02_logging\\lez02_logging.csproj|solutionrelative:lez02_logging\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 633,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\its_31_lez02_MinimalIntro\\lez03_middleware\\Program.cs",
+              "RelativeDocumentMoniker": "lez03_middleware\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\its_31_lez02_MinimalIntro\\lez03_middleware\\Program.cs",
+              "RelativeToolTip": "lez03_middleware\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:42:30.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\its_31_lez02_MinimalIntro\\lez02_logging\\Program.cs",
+              "RelativeDocumentMoniker": "lez02_logging\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\its_31_lez02_MinimalIntro\\lez02_logging\\Program.cs",
+              "RelativeToolTip": "lez02_logging\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:30:32.671Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

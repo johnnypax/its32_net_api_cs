@@ -1,0 +1,14 @@
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\its_32_lez00_Introduzione\bin\Debug\net9.0\its_32_lez00_Introduzione.exe
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\its_32_lez00_Introduzione\bin\Debug\net9.0\its_32_lez00_Introduzione.deps.json
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\its_32_lez00_Introduzione\bin\Debug\net9.0\its_32_lez00_Introduzione.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\its_32_lez00_Introduzione\bin\Debug\net9.0\its_32_lez00_Introduzione.dll
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\its_32_lez00_Introduzione\bin\Debug\net9.0\its_32_lez00_Introduzione.pdb
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\its_32_lez00_Introduzione\obj\Debug\net9.0\its_32_lez00_Introduzione.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\its_32_lez00_Introduzione\obj\Debug\net9.0\its_32_lez00_Introduzione.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\its_32_lez00_Introduzione\obj\Debug\net9.0\its_32_lez00_Introduzione.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\its_32_lez00_Introduzione\obj\Debug\net9.0\its_32_lez00_Introduzione.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\its_32_lez00_Introduzione\obj\Debug\net9.0\its_32_lez00_Introduzione.dll
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\its_32_lez00_Introduzione\obj\Debug\net9.0\refint\its_32_lez00_Introduzione.dll
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\its_32_lez00_Introduzione\obj\Debug\net9.0\its_32_lez00_Introduzione.pdb
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\its_32_lez00_Introduzione\obj\Debug\net9.0\its_32_lez00_Introduzione.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\its_32_lez00_Introduzione\obj\Debug\net9.0\ref\its_32_lez00_Introduzione.dll

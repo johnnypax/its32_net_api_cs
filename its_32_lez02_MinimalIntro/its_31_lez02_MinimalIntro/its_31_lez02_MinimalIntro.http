@@ -1,0 +1,6 @@
+@its_31_lez02_MinimalIntro_HostAddress = http://localhost:5250
+
+GET {{its_31_lez02_MinimalIntro_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,6 @@
+@lez03_middleware_HostAddress = http://localhost:5083
+
+GET {{lez03_middleware_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

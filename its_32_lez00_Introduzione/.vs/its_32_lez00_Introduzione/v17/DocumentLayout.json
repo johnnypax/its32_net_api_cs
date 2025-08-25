@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\source\\repos\\its_32_lez00_Introduzione\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F905AABC-09CF-43C4-A53F-CF714428F673}|lez02_classi_avanzate\\lez02_classi_avanzate.csproj|c:\\users\\academy\\source\\repos\\its_32_lez00_introduzione\\lez02_classi_avanzate\\classi\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F905AABC-09CF-43C4-A53F-CF714428F673}|lez02_classi_avanzate\\lez02_classi_avanzate.csproj|solutionrelative:lez02_classi_avanzate\\classi\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F905AABC-09CF-43C4-A53F-CF714428F673}|lez02_classi_avanzate\\lez02_classi_avanzate.csproj|c:\\users\\academy\\source\\repos\\its_32_lez00_introduzione\\lez02_classi_avanzate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F905AABC-09CF-43C4-A53F-CF714428F673}|lez02_classi_avanzate\\lez02_classi_avanzate.csproj|solutionrelative:lez02_classi_avanzate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5333F0E9-EA93-4AA5-BC93-5E9259F07A3D}|lez01_classi\\lez01_classi.csproj|c:\\users\\academy\\source\\repos\\its_32_lez00_introduzione\\lez01_classi\\classi\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5333F0E9-EA93-4AA5-BC93-5E9259F07A3D}|lez01_classi\\lez01_classi.csproj|solutionrelative:lez01_classi\\classi\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5333F0E9-EA93-4AA5-BC93-5E9259F07A3D}|lez01_classi\\lez01_classi.csproj|c:\\users\\academy\\source\\repos\\its_32_lez00_introduzione\\lez01_classi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5333F0E9-EA93-4AA5-BC93-5E9259F07A3D}|lez01_classi\\lez01_classi.csproj|solutionrelative:lez01_classi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9AC5F3-04ED-425C-A768-7C3DF9623B81}|its_32_lez00_Introduzione\\lez00_helloworld.csproj|c:\\users\\academy\\source\\repos\\its_32_lez00_introduzione\\its_32_lez00_introduzione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9AC5F3-04ED-425C-A768-7C3DF9623B81}|its_32_lez00_Introduzione\\lez00_helloworld.csproj|solutionrelative:its_32_lez00_introduzione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5333F0E9-EA93-4AA5-BC93-5E9259F07A3D}|lez01_classi\\lez01_classi.csproj|c:\\users\\academy\\source\\repos\\its_32_lez00_introduzione\\lez01_classi\\lez01_classi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5333F0E9-EA93-4AA5-BC93-5E9259F07A3D}|lez01_classi\\lez01_classi.csproj|solutionrelative:lez01_classi\\lez01_classi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 633,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\its_32_lez00_Introduzione\\lez02_classi_avanzate\\Classi\\Persona.cs",
+              "RelativeDocumentMoniker": "lez02_classi_avanzate\\Classi\\Persona.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\its_32_lez00_Introduzione\\lez02_classi_avanzate\\Classi\\Persona.cs",
+              "RelativeToolTip": "lez02_classi_avanzate\\Classi\\Persona.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T10:35:23.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\its_32_lez00_Introduzione\\lez02_classi_avanzate\\Program.cs",
+              "RelativeDocumentMoniker": "lez02_classi_avanzate\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\its_32_lez00_Introduzione\\lez02_classi_avanzate\\Program.cs",
+              "RelativeToolTip": "lez02_classi_avanzate\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T10:34:43.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\its_32_lez00_Introduzione\\its_32_lez00_Introduzione\\Program.cs",
+              "RelativeDocumentMoniker": "its_32_lez00_Introduzione\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\its_32_lez00_Introduzione\\its_32_lez00_Introduzione\\Program.cs",
+              "RelativeToolTip": "its_32_lez00_Introduzione\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T09:48:46.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\its_32_lez00_Introduzione\\lez01_classi\\Classi\\Persona.cs",
+              "RelativeDocumentMoniker": "lez01_classi\\Classi\\Persona.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\its_32_lez00_Introduzione\\lez01_classi\\Classi\\Persona.cs",
+              "RelativeToolTip": "lez01_classi\\Classi\\Persona.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T09:46:50.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "lez01_classi",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\its_32_lez00_Introduzione\\lez01_classi\\lez01_classi.csproj",
+              "RelativeDocumentMoniker": "lez01_classi\\lez01_classi.csproj",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\its_32_lez00_Introduzione\\lez01_classi\\lez01_classi.csproj",
+              "RelativeToolTip": "lez01_classi\\lez01_classi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-25T09:45:53.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\its_32_lez00_Introduzione\\lez01_classi\\Program.cs",
+              "RelativeDocumentMoniker": "lez01_classi\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\its_32_lez00_Introduzione\\lez01_classi\\Program.cs",
+              "RelativeToolTip": "lez01_classi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T09:37:29.332Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

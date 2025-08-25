@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\its_31_lez02_MinimalIntro.props" />
+</Project>

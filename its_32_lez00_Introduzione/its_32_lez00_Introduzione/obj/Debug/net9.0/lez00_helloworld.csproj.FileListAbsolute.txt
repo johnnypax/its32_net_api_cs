@@ -1,0 +1,14 @@
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\its_32_lez00_Introduzione\bin\Debug\net9.0\lez00_helloworld.exe
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\its_32_lez00_Introduzione\bin\Debug\net9.0\lez00_helloworld.deps.json
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\its_32_lez00_Introduzione\bin\Debug\net9.0\lez00_helloworld.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\its_32_lez00_Introduzione\bin\Debug\net9.0\lez00_helloworld.dll
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\its_32_lez00_Introduzione\bin\Debug\net9.0\lez00_helloworld.pdb
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\its_32_lez00_Introduzione\obj\Debug\net9.0\lez00_helloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\its_32_lez00_Introduzione\obj\Debug\net9.0\lez00_helloworld.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\its_32_lez00_Introduzione\obj\Debug\net9.0\lez00_helloworld.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\its_32_lez00_Introduzione\obj\Debug\net9.0\lez00_helloworld.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\its_32_lez00_Introduzione\obj\Debug\net9.0\lez00_helloworld.dll
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\its_32_lez00_Introduzione\obj\Debug\net9.0\refint\lez00_helloworld.dll
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\its_32_lez00_Introduzione\obj\Debug\net9.0\lez00_helloworld.pdb
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\its_32_lez00_Introduzione\obj\Debug\net9.0\lez00_helloworld.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\its_32_lez00_Introduzione\its_32_lez00_Introduzione\obj\Debug\net9.0\ref\lez00_helloworld.dll
