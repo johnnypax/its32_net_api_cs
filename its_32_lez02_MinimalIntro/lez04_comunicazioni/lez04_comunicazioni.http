@@ -1,0 +1,6 @@
+@lez04_comunicazioni_HostAddress = http://localhost:5194
+
+GET {{lez04_comunicazioni_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

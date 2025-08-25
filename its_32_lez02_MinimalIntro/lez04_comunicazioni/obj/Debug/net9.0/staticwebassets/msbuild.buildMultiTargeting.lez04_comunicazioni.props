@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\lez04_comunicazioni.props" />
+</Project>
