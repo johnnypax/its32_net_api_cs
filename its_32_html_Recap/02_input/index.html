@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <h1>Compila il form</h1>
+
+    Nominativo: <input type="text" placeholder="Inserisci Testo" id="input-nome" value=""/>
+    <br />
+    <button type="button" onclick="salvami()">Salva</button>
+
+    <script>
+        /*
+            Creare un form che contenga nome, cognome, matricola, telefono, email
+            Linkarlo al pulsante salva.
+        */
+
+        function salvami(){
+            var nom = document.getElementById("input-nome").value;
+
+            console.log(nom)
+        }
+    </script>
+
+</body>
+</html>

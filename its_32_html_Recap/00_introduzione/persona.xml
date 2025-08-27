@@ -1,0 +1,11 @@
+<persona>
+<nome>GIovanni</nome>
+<cognome>Pace</cognome>
+</persona>
+
+{
+"persona": {
+"nome": "Giovanni",
+"cognome": "Pace"
+}
+}

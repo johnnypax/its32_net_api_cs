@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Compila il form</h1>
+
+    Nome: <input type="text" id="input-nome" /> <br />
+    Cognome: <input type="text" id="input-cognome" /> <br />
+    Matricola: <input type="text" id="input-matricola" /> <br />
+    Telefono: <input type="text" id="input-telefono" /> <br />
+    Email: <input type="text" id="input-email" /> <br />
+    <button type="button" onclick="salvataggio()">Salva</button>
+
+    <script>
+        function salvataggio(){
+            var nom = document.getElementById("input-nome").value;
+            var cog = document.getElementById("input-cognome").value;
+            var mat = document.getElementById("input-matricola").value;
+            var tel = document.getElementById("input-telefono").value;
+            var ema = document.getElementById("input-email").value;
+
+            var persona = {
+                nominativo: nom,
+                cognome: cog,
+                matricola: mat,
+                telefono: tel,
+                email: ema
+            }
+
+            console.log(persona)
+        }
+    </script>
+</body>
+</html>
