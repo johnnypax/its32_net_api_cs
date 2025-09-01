@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\its_32_lez03_crud.props" />
+</Project>

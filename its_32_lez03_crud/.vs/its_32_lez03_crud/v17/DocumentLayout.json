@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\source\\repos\\its_32_lez03_crud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4205CE-8DC9-4DF5-A1F3-2D5B2ED81EFF}|its_32_lez03_crud\\its_32_lez03_crud.csproj|c:\\users\\academy\\source\\repos\\its_32_lez03_crud\\its_32_lez03_crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED4205CE-8DC9-4DF5-A1F3-2D5B2ED81EFF}|its_32_lez03_crud\\its_32_lez03_crud.csproj|solutionrelative:its_32_lez03_crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4205CE-8DC9-4DF5-A1F3-2D5B2ED81EFF}|its_32_lez03_crud\\its_32_lez03_crud.csproj|c:\\users\\academy\\source\\repos\\its_32_lez03_crud\\its_32_lez03_crud\\classi\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED4205CE-8DC9-4DF5-A1F3-2D5B2ED81EFF}|its_32_lez03_crud\\its_32_lez03_crud.csproj|solutionrelative:its_32_lez03_crud\\classi\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4205CE-8DC9-4DF5-A1F3-2D5B2ED81EFF}|its_32_lez03_crud\\its_32_lez03_crud.csproj|c:\\users\\academy\\source\\repos\\its_32_lez03_crud\\its_32_lez03_crud\\its_32_lez03_crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ED4205CE-8DC9-4DF5-A1F3-2D5B2ED81EFF}|its_32_lez03_crud\\its_32_lez03_crud.csproj|solutionrelative:its_32_lez03_crud\\its_32_lez03_crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 633,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Studente.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\its_32_lez03_crud\\its_32_lez03_crud\\Classi\\Studente.cs",
+              "RelativeDocumentMoniker": "its_32_lez03_crud\\Classi\\Studente.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\its_32_lez03_crud\\its_32_lez03_crud\\Classi\\Studente.cs",
+              "RelativeToolTip": "its_32_lez03_crud\\Classi\\Studente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T07:54:32.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "its_32_lez03_crud",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\its_32_lez03_crud\\its_32_lez03_crud\\its_32_lez03_crud.csproj",
+              "RelativeDocumentMoniker": "its_32_lez03_crud\\its_32_lez03_crud.csproj",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\its_32_lez03_crud\\its_32_lez03_crud\\its_32_lez03_crud.csproj",
+              "RelativeToolTip": "its_32_lez03_crud\\its_32_lez03_crud.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-01T07:53:49.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\its_32_lez03_crud\\its_32_lez03_crud\\Program.cs",
+              "RelativeDocumentMoniker": "its_32_lez03_crud\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\its_32_lez03_crud\\its_32_lez03_crud\\Program.cs",
+              "RelativeToolTip": "its_32_lez03_crud\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAswCAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T07:51:04.997Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
