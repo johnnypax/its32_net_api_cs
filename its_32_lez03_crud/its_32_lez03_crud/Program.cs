@@ -39,6 +39,34 @@ app.MapGet("/api/studenti", () =>
     return Results.Ok(lista);
 });
 
+app.MapGet("/api/studenti/{matricola}", (String matricola) =>
+{
+    Studente? stu = lista.Find(s => s.Matricola == matricola);
+    return Results.Ok(stu);
+});
+
 app.UseCors("AllowAll");
 
 app.Run();
+
+/*
+     * Progetto: Sviluppo di una API per la gestione del magazzino di una gelateria artigianale.
+     *
+     * Obiettivo:
+     * Realizzare un sistema backend che consenta la gestione dei gusti di gelato disponibili, 
+     * monitorando quantità, produzione e vendite giornaliere.
+     *
+     * Requisiti funzionali:
+     * - Elencare tutti i gusti di gelato disponibili.
+     * - Per ogni gusto, gestire:
+     *   - Quantità disponibile (numero di vaschette).
+     *   - Quantità prodotta giornalmente.
+     *   - Quantità acquistata giornalmente.
+     *   - Prezzo al kg.
+     * - Ogni gusto deve essere identificato da un codice univoco (UUID o altro formato), 
+     *   utile per operazioni di aggiornamento, eliminazione o consultazione dettagliata.
+     *
+     * Requisiti tecnici:
+     * - L'API deve esporre endpoint RESTful per le operazioni CRUD (Create, Read, Update, Delete).
+     * - I dati possono essere gestiti in memoria o tramite un database relazionale (es. SQLite, PostgreSQL).
+ */
