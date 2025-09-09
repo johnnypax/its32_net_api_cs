@@ -64,7 +64,7 @@ app.MapPost("/api/gelati", (Gelato gel) =>
     gel.Id = lista.Count + 1;
 
     lista.Add(gel);
-    return Results.Ok();
+    return Results.Created();
 });
 
 app.UseCors("AllowAll");
