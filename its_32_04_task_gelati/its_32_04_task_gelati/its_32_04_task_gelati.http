@@ -1,0 +1,6 @@
+@its_32_04_task_gelati_HostAddress = http://localhost:5089
+
+GET {{its_32_04_task_gelati_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
