@@ -8,5 +8,8 @@
         public string Telaio { get; set; } = null!;
         public string? Targa { get; set; } = null;
         public int Porte { get; set; }
+        public string? Colore { get; set; }
+
+        //public Utente Proprietario { get; set; }
     }
 }
