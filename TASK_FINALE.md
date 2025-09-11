@@ -18,7 +18,7 @@ Ogni proiezione deve includere:
 
 - Titolo del film
 - Durata
-- Genere (univoco)
+- Genere (singolo)
 - Nazionalità
 - Lingua
 - Descrizione
