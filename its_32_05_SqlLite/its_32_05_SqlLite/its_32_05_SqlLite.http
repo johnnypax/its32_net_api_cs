@@ -1,0 +1,6 @@
+@its_32_05_SqlLite_HostAddress = http://localhost:5293
+
+GET {{its_32_05_SqlLite_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
